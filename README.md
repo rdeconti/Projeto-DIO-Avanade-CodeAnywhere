@@ -11,7 +11,7 @@
 
 # Melhorias implementadas
 - Criei um script SQL para carregar os dados e testar no HTML
-- Script: você pode baixar o exemplo de: ...
+- Script: você pode baixar o exemplo de: https://github.com/rdeconti/Projeto-DIO-Avanade-CodeAnywhere/tree/main/scriptSQL
 
 # Scrum
 CODE ANYWHERE – MENTORIA #4  |  Projetos Ágeis com Scrum!

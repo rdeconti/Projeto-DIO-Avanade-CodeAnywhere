@@ -1,25 +1,26 @@
-:spiral_calendar: Atualizado em 16 de maio de 2021 :heart:
+:spiral_calendar: Atualizado em 12 de março de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Projeto Digital Innovation One
-# Projeto desenvolvido durante o Bootcamp Code Anywhere
-- Este projeto foi proposto pela Digital Innovation One 
-- Link do código original: https://github.com/danubiadona/Avanade-DIO-CodeAnywhere
-- Professor: Vários
-- Mentorias: https://web.digitalinnovation.one/track/code-anywhere?tab=mentoring
+# Projeto em JAVA criado para controlar um mercadinho
+- Este projeto foi proposto pela Digital Innovation One - Link do código original: ??????????????
+- Professor: Thiago Campos de Oliveira
+- Aula: https://web.digitalinnovation.one/lab/arquitetura-essencial-de-api-com-net/learning/e4600dc8-0e68-45cd-82e6-c048c0946f7c
 
-# Melhorias implementadas
-- Criei um script SQL para carregar os dados e testar no HTML
-- Script: você pode baixar o exemplo de: https://github.com/rdeconti/Projeto-DIO-Avanade-CodeAnywhere/tree/main/scriptSQL
+# Descrição
+Sua missão neste lab será construir uma arquitetura base para uma aplicação .net do zero.
 
-# Scrum
-CODE ANYWHERE – MENTORIA #4  |  Projetos Ágeis com Scrum!
+# Detalhes das mentorias
+- 
 
-# Avanade DIO - Code Anywhere 
-Mentoria #1 | Pensando Orientado a Objetos na prática <br>
-Mentoria #2 | Tudo o que você sempre quis saber sobre Java e Orientação a Objetos <br>
-Mentoria #3 | Conceitos e Melhores Práticas com o Banco de Dados SQL Server <br>
-Mentoria #4 | Projetos Ágeis com Scrum <br>
-Mentoria #5 | Projeto - Parte 1: Criando uma API REST com Spring Boot <br>
-Mentoria #6 | Projeto - Parte 2: Acessando e persistindo dados com SQL Server (Spring Data) <br>
+# Criação do projeto
+- Utilizei este link para criar a estrutura do projeto com Spring Boot utilizando o VsCode
+https://medium.com/danielpadua/java-spring-boot-vscode-9ef9b8a263cd
+- Utilizei este link para atualizar o Java para o MAven
+https://stackoverflow.com/questions/63043585/visual-studio-code-showing-java-11-or-more-recent-is-required-to-run-please-do
+
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Catalogo-De-Jogos/blob/main/Screens/tela-post-com-sucesso.jpg" />
+
+## Lista com erros
+<img src="?????" />
